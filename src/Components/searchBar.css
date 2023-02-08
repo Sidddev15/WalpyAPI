@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+.Search-bar {
+    margin: 2rem;
+    padding: 10px;
+
+}
+
+.Search-bar label {
+    display: block;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    margin: 1rem;
+
+}
+
+.Search-bar input {
+    display: block;
+    margin: auto;
+    height: 2.5rem;
+    width: 100%;
+    border: 1px solid grey;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
